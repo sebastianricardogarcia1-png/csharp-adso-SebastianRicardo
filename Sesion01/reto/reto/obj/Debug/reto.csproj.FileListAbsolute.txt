@@ -1,0 +1,7 @@
+C:\Users\sebas\Documents\csharp-adso-SebastianRicardo\Sesion01\reto\reto\bin\Debug\reto.exe.config
+C:\Users\sebas\Documents\csharp-adso-SebastianRicardo\Sesion01\reto\reto\bin\Debug\reto.exe
+C:\Users\sebas\Documents\csharp-adso-SebastianRicardo\Sesion01\reto\reto\bin\Debug\reto.pdb
+C:\Users\sebas\Documents\csharp-adso-SebastianRicardo\Sesion01\reto\reto\obj\Debug\reto.csproj.AssemblyReference.cache
+C:\Users\sebas\Documents\csharp-adso-SebastianRicardo\Sesion01\reto\reto\obj\Debug\reto.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Documents\csharp-adso-SebastianRicardo\Sesion01\reto\reto\obj\Debug\reto.exe
+C:\Users\sebas\Documents\csharp-adso-SebastianRicardo\Sesion01\reto\reto\obj\Debug\reto.pdb

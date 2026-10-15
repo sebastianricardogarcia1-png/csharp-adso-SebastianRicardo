@@ -1,0 +1,7 @@
+C:\Users\sebas\Documents\csharp-adso-SebastianRicardo\Sesion01\tarea\tarea\bin\Debug\tarea.exe.config
+C:\Users\sebas\Documents\csharp-adso-SebastianRicardo\Sesion01\tarea\tarea\bin\Debug\tarea.exe
+C:\Users\sebas\Documents\csharp-adso-SebastianRicardo\Sesion01\tarea\tarea\bin\Debug\tarea.pdb
+C:\Users\sebas\Documents\csharp-adso-SebastianRicardo\Sesion01\tarea\tarea\obj\Debug\tarea.csproj.AssemblyReference.cache
+C:\Users\sebas\Documents\csharp-adso-SebastianRicardo\Sesion01\tarea\tarea\obj\Debug\tarea.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Documents\csharp-adso-SebastianRicardo\Sesion01\tarea\tarea\obj\Debug\tarea.exe
+C:\Users\sebas\Documents\csharp-adso-SebastianRicardo\Sesion01\tarea\tarea\obj\Debug\tarea.pdb
