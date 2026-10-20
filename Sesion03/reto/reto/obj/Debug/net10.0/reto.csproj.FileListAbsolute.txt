@@ -1,0 +1,15 @@
+C:\Users\sebas\Documents\csharp-adso-SebastianRicardo\Sesion03\reto\reto\bin\Debug\net10.0\reto.exe
+C:\Users\sebas\Documents\csharp-adso-SebastianRicardo\Sesion03\reto\reto\bin\Debug\net10.0\reto.deps.json
+C:\Users\sebas\Documents\csharp-adso-SebastianRicardo\Sesion03\reto\reto\bin\Debug\net10.0\reto.runtimeconfig.json
+C:\Users\sebas\Documents\csharp-adso-SebastianRicardo\Sesion03\reto\reto\bin\Debug\net10.0\reto.dll
+C:\Users\sebas\Documents\csharp-adso-SebastianRicardo\Sesion03\reto\reto\bin\Debug\net10.0\reto.pdb
+C:\Users\sebas\Documents\csharp-adso-SebastianRicardo\Sesion03\reto\reto\obj\Debug\net10.0\reto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\Documents\csharp-adso-SebastianRicardo\Sesion03\reto\reto\obj\Debug\net10.0\reto.AssemblyInfoInputs.cache
+C:\Users\sebas\Documents\csharp-adso-SebastianRicardo\Sesion03\reto\reto\obj\Debug\net10.0\reto.AssemblyInfo.cs
+C:\Users\sebas\Documents\csharp-adso-SebastianRicardo\Sesion03\reto\reto\obj\Debug\net10.0\reto.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Documents\csharp-adso-SebastianRicardo\Sesion03\reto\reto\obj\Debug\net10.0\reto.dll
+C:\Users\sebas\Documents\csharp-adso-SebastianRicardo\Sesion03\reto\reto\obj\Debug\net10.0\refint\reto.dll
+C:\Users\sebas\Documents\csharp-adso-SebastianRicardo\Sesion03\reto\reto\obj\Debug\net10.0\reto.pdb
+C:\Users\sebas\Documents\csharp-adso-SebastianRicardo\Sesion03\reto\reto\obj\Debug\net10.0\reto.genruntimeconfig.cache
+C:\Users\sebas\Documents\csharp-adso-SebastianRicardo\Sesion03\reto\reto\obj\Debug\net10.0\ref\reto.dll
+C:\Users\sebas\Documents\csharp-adso-SebastianRicardo\Sesion03\reto\reto\obj\Debug\net10.0\reto.csproj.Up2Date
