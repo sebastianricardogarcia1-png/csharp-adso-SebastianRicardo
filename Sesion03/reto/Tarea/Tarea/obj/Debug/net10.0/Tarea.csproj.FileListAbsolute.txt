@@ -1,0 +1,15 @@
+C:\Users\sebas\Documents\csharp-adso-SebastianRicardo\Sesion03\Tarea\Tarea\bin\Debug\net10.0\Tarea.exe
+C:\Users\sebas\Documents\csharp-adso-SebastianRicardo\Sesion03\Tarea\Tarea\bin\Debug\net10.0\Tarea.deps.json
+C:\Users\sebas\Documents\csharp-adso-SebastianRicardo\Sesion03\Tarea\Tarea\bin\Debug\net10.0\Tarea.runtimeconfig.json
+C:\Users\sebas\Documents\csharp-adso-SebastianRicardo\Sesion03\Tarea\Tarea\bin\Debug\net10.0\Tarea.dll
+C:\Users\sebas\Documents\csharp-adso-SebastianRicardo\Sesion03\Tarea\Tarea\bin\Debug\net10.0\Tarea.pdb
+C:\Users\sebas\Documents\csharp-adso-SebastianRicardo\Sesion03\Tarea\Tarea\obj\Debug\net10.0\Tarea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\Documents\csharp-adso-SebastianRicardo\Sesion03\Tarea\Tarea\obj\Debug\net10.0\Tarea.AssemblyInfoInputs.cache
+C:\Users\sebas\Documents\csharp-adso-SebastianRicardo\Sesion03\Tarea\Tarea\obj\Debug\net10.0\Tarea.AssemblyInfo.cs
+C:\Users\sebas\Documents\csharp-adso-SebastianRicardo\Sesion03\Tarea\Tarea\obj\Debug\net10.0\Tarea.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Documents\csharp-adso-SebastianRicardo\Sesion03\Tarea\Tarea\obj\Debug\net10.0\Tarea.dll
+C:\Users\sebas\Documents\csharp-adso-SebastianRicardo\Sesion03\Tarea\Tarea\obj\Debug\net10.0\refint\Tarea.dll
+C:\Users\sebas\Documents\csharp-adso-SebastianRicardo\Sesion03\Tarea\Tarea\obj\Debug\net10.0\Tarea.pdb
+C:\Users\sebas\Documents\csharp-adso-SebastianRicardo\Sesion03\Tarea\Tarea\obj\Debug\net10.0\Tarea.genruntimeconfig.cache
+C:\Users\sebas\Documents\csharp-adso-SebastianRicardo\Sesion03\Tarea\Tarea\obj\Debug\net10.0\ref\Tarea.dll
+C:\Users\sebas\Documents\csharp-adso-SebastianRicardo\Sesion03\Tarea\Tarea\obj\Debug\net10.0\Tarea.csproj.Up2Date
