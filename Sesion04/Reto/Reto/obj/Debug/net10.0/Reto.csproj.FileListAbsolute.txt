@@ -1,0 +1,15 @@
+C:\Users\sebas\Documents\csharp-adso-SebastianRicardo\Sesion04\Reto\Reto\bin\Debug\net10.0\Reto.exe
+C:\Users\sebas\Documents\csharp-adso-SebastianRicardo\Sesion04\Reto\Reto\bin\Debug\net10.0\Reto.deps.json
+C:\Users\sebas\Documents\csharp-adso-SebastianRicardo\Sesion04\Reto\Reto\bin\Debug\net10.0\Reto.runtimeconfig.json
+C:\Users\sebas\Documents\csharp-adso-SebastianRicardo\Sesion04\Reto\Reto\bin\Debug\net10.0\Reto.dll
+C:\Users\sebas\Documents\csharp-adso-SebastianRicardo\Sesion04\Reto\Reto\bin\Debug\net10.0\Reto.pdb
+C:\Users\sebas\Documents\csharp-adso-SebastianRicardo\Sesion04\Reto\Reto\obj\Debug\net10.0\Reto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\Documents\csharp-adso-SebastianRicardo\Sesion04\Reto\Reto\obj\Debug\net10.0\Reto.AssemblyInfoInputs.cache
+C:\Users\sebas\Documents\csharp-adso-SebastianRicardo\Sesion04\Reto\Reto\obj\Debug\net10.0\Reto.AssemblyInfo.cs
+C:\Users\sebas\Documents\csharp-adso-SebastianRicardo\Sesion04\Reto\Reto\obj\Debug\net10.0\Reto.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Documents\csharp-adso-SebastianRicardo\Sesion04\Reto\Reto\obj\Debug\net10.0\Reto.dll
+C:\Users\sebas\Documents\csharp-adso-SebastianRicardo\Sesion04\Reto\Reto\obj\Debug\net10.0\refint\Reto.dll
+C:\Users\sebas\Documents\csharp-adso-SebastianRicardo\Sesion04\Reto\Reto\obj\Debug\net10.0\Reto.pdb
+C:\Users\sebas\Documents\csharp-adso-SebastianRicardo\Sesion04\Reto\Reto\obj\Debug\net10.0\Reto.genruntimeconfig.cache
+C:\Users\sebas\Documents\csharp-adso-SebastianRicardo\Sesion04\Reto\Reto\obj\Debug\net10.0\ref\Reto.dll
+C:\Users\sebas\Documents\csharp-adso-SebastianRicardo\Sesion04\Reto\Reto\obj\Debug\net10.0\Reto.csproj.Up2Date
