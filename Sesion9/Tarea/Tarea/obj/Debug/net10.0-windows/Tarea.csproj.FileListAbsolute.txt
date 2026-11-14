@@ -1,0 +1,17 @@
+C:\Sebastian\C#\Sesion9\Tarea\Tarea\bin\Debug\net10.0-windows\Tarea.exe
+C:\Sebastian\C#\Sesion9\Tarea\Tarea\bin\Debug\net10.0-windows\Tarea.deps.json
+C:\Sebastian\C#\Sesion9\Tarea\Tarea\bin\Debug\net10.0-windows\Tarea.runtimeconfig.json
+C:\Sebastian\C#\Sesion9\Tarea\Tarea\bin\Debug\net10.0-windows\Tarea.dll
+C:\Sebastian\C#\Sesion9\Tarea\Tarea\bin\Debug\net10.0-windows\Tarea.pdb
+C:\Sebastian\C#\Sesion9\Tarea\Tarea\obj\Debug\net10.0-windows\Tarea.Form1.resources
+C:\Sebastian\C#\Sesion9\Tarea\Tarea\obj\Debug\net10.0-windows\Tarea.csproj.GenerateResource.cache
+C:\Sebastian\C#\Sesion9\Tarea\Tarea\obj\Debug\net10.0-windows\Tarea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sebastian\C#\Sesion9\Tarea\Tarea\obj\Debug\net10.0-windows\Tarea.AssemblyInfoInputs.cache
+C:\Sebastian\C#\Sesion9\Tarea\Tarea\obj\Debug\net10.0-windows\Tarea.AssemblyInfo.cs
+C:\Sebastian\C#\Sesion9\Tarea\Tarea\obj\Debug\net10.0-windows\Tarea.csproj.CoreCompileInputs.cache
+C:\Sebastian\C#\Sesion9\Tarea\Tarea\obj\Debug\net10.0-windows\Tarea.dll
+C:\Sebastian\C#\Sesion9\Tarea\Tarea\obj\Debug\net10.0-windows\refint\Tarea.dll
+C:\Sebastian\C#\Sesion9\Tarea\Tarea\obj\Debug\net10.0-windows\Tarea.pdb
+C:\Sebastian\C#\Sesion9\Tarea\Tarea\obj\Debug\net10.0-windows\Tarea.genruntimeconfig.cache
+C:\Sebastian\C#\Sesion9\Tarea\Tarea\obj\Debug\net10.0-windows\ref\Tarea.dll
+C:\Sebastian\C#\Sesion9\Tarea\Tarea\obj\Debug\net10.0-windows\Tarea.csproj.Up2Date
