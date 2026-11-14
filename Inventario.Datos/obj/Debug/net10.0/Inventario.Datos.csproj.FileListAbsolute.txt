@@ -1,0 +1,15 @@
+C:\Sebastian\C#\Sesion 7-8\Inventario.Consola\Inventario.Datos\bin\Debug\net10.0\Inventario.Datos.deps.json
+C:\Sebastian\C#\Sesion 7-8\Inventario.Consola\Inventario.Datos\bin\Debug\net10.0\Inventario.Datos.dll
+C:\Sebastian\C#\Sesion 7-8\Inventario.Consola\Inventario.Datos\bin\Debug\net10.0\Inventario.Datos.pdb
+C:\Sebastian\C#\Sesion 7-8\Inventario.Consola\Inventario.Datos\bin\Debug\net10.0\Inventario.Modelos.dll
+C:\Sebastian\C#\Sesion 7-8\Inventario.Consola\Inventario.Datos\bin\Debug\net10.0\Inventario.Modelos.pdb
+C:\Sebastian\C#\Sesion 7-8\Inventario.Consola\Inventario.Datos\obj\Debug\net10.0\Inventario.Datos.csproj.AssemblyReference.cache
+C:\Sebastian\C#\Sesion 7-8\Inventario.Consola\Inventario.Datos\obj\Debug\net10.0\Inventario.Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sebastian\C#\Sesion 7-8\Inventario.Consola\Inventario.Datos\obj\Debug\net10.0\Inventario.Datos.AssemblyInfoInputs.cache
+C:\Sebastian\C#\Sesion 7-8\Inventario.Consola\Inventario.Datos\obj\Debug\net10.0\Inventario.Datos.AssemblyInfo.cs
+C:\Sebastian\C#\Sesion 7-8\Inventario.Consola\Inventario.Datos\obj\Debug\net10.0\Inventario.Datos.csproj.CoreCompileInputs.cache
+C:\Sebastian\C#\Sesion 7-8\Inventario.Consola\Inventario.Datos\obj\Debug\net10.0\Inventar.2C708A53.Up2Date
+C:\Sebastian\C#\Sesion 7-8\Inventario.Consola\Inventario.Datos\obj\Debug\net10.0\Inventario.Datos.dll
+C:\Sebastian\C#\Sesion 7-8\Inventario.Consola\Inventario.Datos\obj\Debug\net10.0\refint\Inventario.Datos.dll
+C:\Sebastian\C#\Sesion 7-8\Inventario.Consola\Inventario.Datos\obj\Debug\net10.0\Inventario.Datos.pdb
+C:\Sebastian\C#\Sesion 7-8\Inventario.Consola\Inventario.Datos\obj\Debug\net10.0\ref\Inventario.Datos.dll
