@@ -1,0 +1,74 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Inventario.Escritorio/1.0.0": {
+        "dependencies": {
+          "Inventario.Datos": "1.0.0",
+          "Inventario.Modelos": "1.0.0",
+          "Inventario.Servicios": "1.0.0"
+        },
+        "runtime": {
+          "Inventario.Escritorio.dll": {}
+        }
+      },
+      "Inventario.Datos/1.0.0": {
+        "dependencies": {
+          "Inventario.Modelos": "1.0.0"
+        },
+        "runtime": {
+          "Inventario.Datos.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Inventario.Modelos/1.0.0": {
+        "runtime": {
+          "Inventario.Modelos.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Inventario.Servicios/1.0.0": {
+        "dependencies": {
+          "Inventario.Datos": "1.0.0",
+          "Inventario.Modelos": "1.0.0"
+        },
+        "runtime": {
+          "Inventario.Servicios.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Inventario.Escritorio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Inventario.Datos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Inventario.Modelos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Inventario.Servicios/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

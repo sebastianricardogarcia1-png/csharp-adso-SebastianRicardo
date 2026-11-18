@@ -15,3 +15,20 @@ C:\Sebastian\C#\Sesion 7-8\Inventario.Consola\Inventario.Servicios\obj\Debug\net
 C:\Sebastian\C#\Sesion 7-8\Inventario.Consola\Inventario.Servicios\obj\Debug\net10.0\refint\Inventario.Servicios.dll
 C:\Sebastian\C#\Sesion 7-8\Inventario.Consola\Inventario.Servicios\obj\Debug\net10.0\Inventario.Servicios.pdb
 C:\Sebastian\C#\Sesion 7-8\Inventario.Consola\Inventario.Servicios\obj\Debug\net10.0\ref\Inventario.Servicios.dll
+C:\Sebastian\C#\Sesion10\Inventario\Inventario.Consola\Inventario.Servicios\bin\Debug\net10.0\Inventario.Servicios.deps.json
+C:\Sebastian\C#\Sesion10\Inventario\Inventario.Consola\Inventario.Servicios\bin\Debug\net10.0\Inventario.Servicios.dll
+C:\Sebastian\C#\Sesion10\Inventario\Inventario.Consola\Inventario.Servicios\bin\Debug\net10.0\Inventario.Servicios.pdb
+C:\Sebastian\C#\Sesion10\Inventario\Inventario.Consola\Inventario.Servicios\bin\Debug\net10.0\Inventario.Datos.dll
+C:\Sebastian\C#\Sesion10\Inventario\Inventario.Consola\Inventario.Servicios\bin\Debug\net10.0\Inventario.Modelos.dll
+C:\Sebastian\C#\Sesion10\Inventario\Inventario.Consola\Inventario.Servicios\bin\Debug\net10.0\Inventario.Datos.pdb
+C:\Sebastian\C#\Sesion10\Inventario\Inventario.Consola\Inventario.Servicios\bin\Debug\net10.0\Inventario.Modelos.pdb
+C:\Sebastian\C#\Sesion10\Inventario\Inventario.Consola\Inventario.Servicios\obj\Debug\net10.0\Inventario.Servicios.csproj.AssemblyReference.cache
+C:\Sebastian\C#\Sesion10\Inventario\Inventario.Consola\Inventario.Servicios\obj\Debug\net10.0\Inventario.Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sebastian\C#\Sesion10\Inventario\Inventario.Consola\Inventario.Servicios\obj\Debug\net10.0\Inventario.Servicios.AssemblyInfoInputs.cache
+C:\Sebastian\C#\Sesion10\Inventario\Inventario.Consola\Inventario.Servicios\obj\Debug\net10.0\Inventario.Servicios.AssemblyInfo.cs
+C:\Sebastian\C#\Sesion10\Inventario\Inventario.Consola\Inventario.Servicios\obj\Debug\net10.0\Inventario.Servicios.csproj.CoreCompileInputs.cache
+C:\Sebastian\C#\Sesion10\Inventario\Inventario.Consola\Inventario.Servicios\obj\Debug\net10.0\Inventar.3A5A5317.Up2Date
+C:\Sebastian\C#\Sesion10\Inventario\Inventario.Consola\Inventario.Servicios\obj\Debug\net10.0\Inventario.Servicios.dll
+C:\Sebastian\C#\Sesion10\Inventario\Inventario.Consola\Inventario.Servicios\obj\Debug\net10.0\refint\Inventario.Servicios.dll
+C:\Sebastian\C#\Sesion10\Inventario\Inventario.Consola\Inventario.Servicios\obj\Debug\net10.0\Inventario.Servicios.pdb
+C:\Sebastian\C#\Sesion10\Inventario\Inventario.Consola\Inventario.Servicios\obj\Debug\net10.0\ref\Inventario.Servicios.dll
