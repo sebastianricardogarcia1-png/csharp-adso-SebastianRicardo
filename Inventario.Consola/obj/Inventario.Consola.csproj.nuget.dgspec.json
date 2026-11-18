@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Sebastian\\C#\\Sesion 7-8\\Inventario.Consola\\Inventario.Consola\\Inventario.Consola.csproj": {}
+    "C:\\Sebastian\\C#\\Sesion10\\Inventario\\Inventario.Consola\\Inventario.Consola\\Inventario.Consola.csproj": {}
   },
   "projects": {
-    "C:\\Sebastian\\C#\\Sesion 7-8\\Inventario.Consola\\Inventario.Consola\\Inventario.Consola.csproj": {
+    "C:\\Sebastian\\C#\\Sesion10\\Inventario\\Inventario.Consola\\Inventario.Consola\\Inventario.Consola.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Sebastian\\C#\\Sesion 7-8\\Inventario.Consola\\Inventario.Consola\\Inventario.Consola.csproj",
+        "projectUniqueName": "C:\\Sebastian\\C#\\Sesion10\\Inventario\\Inventario.Consola\\Inventario.Consola\\Inventario.Consola.csproj",
         "projectName": "Inventario.Consola",
-        "projectPath": "C:\\Sebastian\\C#\\Sesion 7-8\\Inventario.Consola\\Inventario.Consola\\Inventario.Consola.csproj",
+        "projectPath": "C:\\Sebastian\\C#\\Sesion10\\Inventario\\Inventario.Consola\\Inventario.Consola\\Inventario.Consola.csproj",
         "packagesPath": "C:\\Users\\sebas\\.nuget\\packages\\",
-        "outputPath": "C:\\Sebastian\\C#\\Sesion 7-8\\Inventario.Consola\\Inventario.Consola\\obj\\",
+        "outputPath": "C:\\Sebastian\\C#\\Sesion10\\Inventario\\Inventario.Consola\\Inventario.Consola\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sebas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,14 +29,14 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Sebastian\\C#\\Sesion 7-8\\Inventario.Consola\\Inventario.Datos\\Inventario.Datos.csproj": {
-                "projectPath": "C:\\Sebastian\\C#\\Sesion 7-8\\Inventario.Consola\\Inventario.Datos\\Inventario.Datos.csproj"
+              "C:\\Sebastian\\C#\\Sesion10\\Inventario\\Inventario.Consola\\Inventario.Datos\\Inventario.Datos.csproj": {
+                "projectPath": "C:\\Sebastian\\C#\\Sesion10\\Inventario\\Inventario.Consola\\Inventario.Datos\\Inventario.Datos.csproj"
               },
-              "C:\\Sebastian\\C#\\Sesion 7-8\\Inventario.Consola\\Inventario.Modelos\\Inventario.Modelos.csproj": {
-                "projectPath": "C:\\Sebastian\\C#\\Sesion 7-8\\Inventario.Consola\\Inventario.Modelos\\Inventario.Modelos.csproj"
+              "C:\\Sebastian\\C#\\Sesion10\\Inventario\\Inventario.Consola\\Inventario.Modelos\\Inventario.Modelos.csproj": {
+                "projectPath": "C:\\Sebastian\\C#\\Sesion10\\Inventario\\Inventario.Consola\\Inventario.Modelos\\Inventario.Modelos.csproj"
               },
-              "C:\\Sebastian\\C#\\Sesion 7-8\\Inventario.Consola\\Inventario.Servicios\\Inventario.Servicios.csproj": {
-                "projectPath": "C:\\Sebastian\\C#\\Sesion 7-8\\Inventario.Consola\\Inventario.Servicios\\Inventario.Servicios.csproj"
+              "C:\\Sebastian\\C#\\Sesion10\\Inventario\\Inventario.Consola\\Inventario.Servicios\\Inventario.Servicios.csproj": {
+                "projectPath": "C:\\Sebastian\\C#\\Sesion10\\Inventario\\Inventario.Consola\\Inventario.Servicios\\Inventario.Servicios.csproj"
               }
             }
           }
@@ -351,14 +351,14 @@
         }
       }
     },
-    "C:\\Sebastian\\C#\\Sesion 7-8\\Inventario.Consola\\Inventario.Datos\\Inventario.Datos.csproj": {
+    "C:\\Sebastian\\C#\\Sesion10\\Inventario\\Inventario.Consola\\Inventario.Datos\\Inventario.Datos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Sebastian\\C#\\Sesion 7-8\\Inventario.Consola\\Inventario.Datos\\Inventario.Datos.csproj",
+        "projectUniqueName": "C:\\Sebastian\\C#\\Sesion10\\Inventario\\Inventario.Consola\\Inventario.Datos\\Inventario.Datos.csproj",
         "projectName": "Inventario.Datos",
-        "projectPath": "C:\\Sebastian\\C#\\Sesion 7-8\\Inventario.Consola\\Inventario.Datos\\Inventario.Datos.csproj",
+        "projectPath": "C:\\Sebastian\\C#\\Sesion10\\Inventario\\Inventario.Consola\\Inventario.Datos\\Inventario.Datos.csproj",
         "packagesPath": "C:\\Users\\sebas\\.nuget\\packages\\",
-        "outputPath": "C:\\Sebastian\\C#\\Sesion 7-8\\Inventario.Consola\\Inventario.Datos\\obj\\",
+        "outputPath": "C:\\Sebastian\\C#\\Sesion10\\Inventario\\Inventario.Consola\\Inventario.Datos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sebas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -376,8 +376,8 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Sebastian\\C#\\Sesion 7-8\\Inventario.Consola\\Inventario.Modelos\\Inventario.Modelos.csproj": {
-                "projectPath": "C:\\Sebastian\\C#\\Sesion 7-8\\Inventario.Consola\\Inventario.Modelos\\Inventario.Modelos.csproj"
+              "C:\\Sebastian\\C#\\Sesion10\\Inventario\\Inventario.Consola\\Inventario.Modelos\\Inventario.Modelos.csproj": {
+                "projectPath": "C:\\Sebastian\\C#\\Sesion10\\Inventario\\Inventario.Consola\\Inventario.Modelos\\Inventario.Modelos.csproj"
               }
             }
           }
@@ -692,14 +692,14 @@
         }
       }
     },
-    "C:\\Sebastian\\C#\\Sesion 7-8\\Inventario.Consola\\Inventario.Modelos\\Inventario.Modelos.csproj": {
+    "C:\\Sebastian\\C#\\Sesion10\\Inventario\\Inventario.Consola\\Inventario.Modelos\\Inventario.Modelos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Sebastian\\C#\\Sesion 7-8\\Inventario.Consola\\Inventario.Modelos\\Inventario.Modelos.csproj",
+        "projectUniqueName": "C:\\Sebastian\\C#\\Sesion10\\Inventario\\Inventario.Consola\\Inventario.Modelos\\Inventario.Modelos.csproj",
         "projectName": "Inventario.Modelos",
-        "projectPath": "C:\\Sebastian\\C#\\Sesion 7-8\\Inventario.Consola\\Inventario.Modelos\\Inventario.Modelos.csproj",
+        "projectPath": "C:\\Sebastian\\C#\\Sesion10\\Inventario\\Inventario.Consola\\Inventario.Modelos\\Inventario.Modelos.csproj",
         "packagesPath": "C:\\Users\\sebas\\.nuget\\packages\\",
-        "outputPath": "C:\\Sebastian\\C#\\Sesion 7-8\\Inventario.Consola\\Inventario.Modelos\\obj\\",
+        "outputPath": "C:\\Sebastian\\C#\\Sesion10\\Inventario\\Inventario.Consola\\Inventario.Modelos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sebas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1029,14 +1029,14 @@
         }
       }
     },
-    "C:\\Sebastian\\C#\\Sesion 7-8\\Inventario.Consola\\Inventario.Servicios\\Inventario.Servicios.csproj": {
+    "C:\\Sebastian\\C#\\Sesion10\\Inventario\\Inventario.Consola\\Inventario.Servicios\\Inventario.Servicios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Sebastian\\C#\\Sesion 7-8\\Inventario.Consola\\Inventario.Servicios\\Inventario.Servicios.csproj",
+        "projectUniqueName": "C:\\Sebastian\\C#\\Sesion10\\Inventario\\Inventario.Consola\\Inventario.Servicios\\Inventario.Servicios.csproj",
         "projectName": "Inventario.Servicios",
-        "projectPath": "C:\\Sebastian\\C#\\Sesion 7-8\\Inventario.Consola\\Inventario.Servicios\\Inventario.Servicios.csproj",
+        "projectPath": "C:\\Sebastian\\C#\\Sesion10\\Inventario\\Inventario.Consola\\Inventario.Servicios\\Inventario.Servicios.csproj",
         "packagesPath": "C:\\Users\\sebas\\.nuget\\packages\\",
-        "outputPath": "C:\\Sebastian\\C#\\Sesion 7-8\\Inventario.Consola\\Inventario.Servicios\\obj\\",
+        "outputPath": "C:\\Sebastian\\C#\\Sesion10\\Inventario\\Inventario.Consola\\Inventario.Servicios\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sebas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1054,11 +1054,11 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Sebastian\\C#\\Sesion 7-8\\Inventario.Consola\\Inventario.Datos\\Inventario.Datos.csproj": {
-                "projectPath": "C:\\Sebastian\\C#\\Sesion 7-8\\Inventario.Consola\\Inventario.Datos\\Inventario.Datos.csproj"
+              "C:\\Sebastian\\C#\\Sesion10\\Inventario\\Inventario.Consola\\Inventario.Datos\\Inventario.Datos.csproj": {
+                "projectPath": "C:\\Sebastian\\C#\\Sesion10\\Inventario\\Inventario.Consola\\Inventario.Datos\\Inventario.Datos.csproj"
               },
-              "C:\\Sebastian\\C#\\Sesion 7-8\\Inventario.Consola\\Inventario.Modelos\\Inventario.Modelos.csproj": {
-                "projectPath": "C:\\Sebastian\\C#\\Sesion 7-8\\Inventario.Consola\\Inventario.Modelos\\Inventario.Modelos.csproj"
+              "C:\\Sebastian\\C#\\Sesion10\\Inventario\\Inventario.Consola\\Inventario.Modelos\\Inventario.Modelos.csproj": {
+                "projectPath": "C:\\Sebastian\\C#\\Sesion10\\Inventario\\Inventario.Consola\\Inventario.Modelos\\Inventario.Modelos.csproj"
               }
             }
           }

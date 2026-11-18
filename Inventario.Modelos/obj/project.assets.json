@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Sebastian\\C#\\Sesion 7-8\\Inventario.Consola\\Inventario.Modelos\\Inventario.Modelos.csproj",
+      "projectUniqueName": "C:\\Sebastian\\C#\\Sesion10\\Inventario\\Inventario.Consola\\Inventario.Modelos\\Inventario.Modelos.csproj",
       "projectName": "Inventario.Modelos",
-      "projectPath": "C:\\Sebastian\\C#\\Sesion 7-8\\Inventario.Consola\\Inventario.Modelos\\Inventario.Modelos.csproj",
+      "projectPath": "C:\\Sebastian\\C#\\Sesion10\\Inventario\\Inventario.Consola\\Inventario.Modelos\\Inventario.Modelos.csproj",
       "packagesPath": "C:\\Users\\sebas\\.nuget\\packages\\",
-      "outputPath": "C:\\Sebastian\\C#\\Sesion 7-8\\Inventario.Consola\\Inventario.Modelos\\obj\\",
+      "outputPath": "C:\\Sebastian\\C#\\Sesion10\\Inventario\\Inventario.Consola\\Inventario.Modelos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sebas\\AppData\\Roaming\\NuGet\\NuGet.Config",
