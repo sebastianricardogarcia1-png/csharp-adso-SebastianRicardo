@@ -36,6 +36,7 @@
             nudCantidad = new NumericUpDown();
             txtBuscar = new TextBox();
             dgvProductos = new DataGridView();
+            btnReportes = new Button();
             ((System.ComponentModel.ISupportInitialize)nudCantidad).BeginInit();
             ((System.ComponentModel.ISupportInitialize)dgvProductos).BeginInit();
             SuspendLayout();
@@ -107,12 +108,24 @@
             dgvProductos.RowHeadersWidth = 51;
             dgvProductos.Size = new Size(300, 188);
             dgvProductos.TabIndex = 7;
+            dgvProductos.CellDoubleClick += dgvProductos_CellDoubleClick;
+            // 
+            // btnReportes
+            // 
+            btnReportes.Location = new Point(400, 39);
+            btnReportes.Name = "btnReportes";
+            btnReportes.Size = new Size(94, 29);
+            btnReportes.TabIndex = 8;
+            btnReportes.Text = "Reportes";
+            btnReportes.UseVisualStyleBackColor = true;
+            btnReportes.Click += btnReportes_Click;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(545, 450);
+            Controls.Add(btnReportes);
             Controls.Add(dgvProductos);
             Controls.Add(txtBuscar);
             Controls.Add(nudCantidad);
@@ -140,5 +153,6 @@
         private NumericUpDown nudCantidad;
         private TextBox txtBuscar;
         private DataGridView dgvProductos;
+        private Button btnReportes;
     }
 }

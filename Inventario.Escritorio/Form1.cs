@@ -134,5 +134,34 @@ namespace Inventario.Escritorio
                 CargarProductos();
             }
         }
+
+        private void dgvProductos_CellDoubleClick(object sender, DataGridViewCellEventArgs e)
+        {
+            if (e.RowIndex < 0) return;
+
+            if (dgvProductos.Rows[e.RowIndex].DataBoundItem is not Producto producto)
+                return;
+
+            using var frm = new FormProducto(producto);
+            if (frm.ShowDialog() == DialogResult.OK)
+            {
+                try
+                {
+                    _servicio.Actualizar(producto.Codigo, frm.NombreEditado, frm.PrecioEditado);
+                    CargarProductos();
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show(ex.Message, "Error al actualizar", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
+            }
+        }
+
+        private void btnReportes_Click(object sender, EventArgs e)
+        {
+            var productos = _servicio.Listar();
+            using var frmReportes = new FormReportes(productos);
+            frmReportes.ShowDialog();
+        }
     }
 }
